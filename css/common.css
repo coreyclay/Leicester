@@ -1,0 +1,24 @@
+.container:nth-child(2){
+	position: fixed;
+	top: 50px;
+	z-index: 100;
+	width: 200%;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	
+		}
+	
+.container:nth-child(3){
+	padding-top: 40px;
+	}
+	
+.navbar-nav:nth-child(1){
+	
+	margin: 0% 0% 0% 10%;
+}
+
+.text-active{
+	color: #fb6929;
+	font-weight: bold;
+}
